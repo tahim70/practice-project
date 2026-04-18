@@ -14,3 +14,8 @@
     font-weight: bold;
     background-color: darkseagreen;
 }
+form{
+    text-align: center;
+    background-color: dimgray;
+    border: 10px solid darkgreen;
+}
